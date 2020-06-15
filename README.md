@@ -7,4 +7,4 @@ pir.py retrieves the 3 PIR's and the Microphone read value
 
 correlate.py merges the different timeseries
 
-EventCorrelation.py calculates the best model and the best hyperparameters in order to best correlate the events.
+EventCorrelation.py calculates the best model and the best hyperparameters in order to correlate the events in the best way.
